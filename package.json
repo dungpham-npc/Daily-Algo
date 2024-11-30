@@ -1,0 +1,24 @@
+{
+  "name": "algorithm_for_the_day",
+  "version": "1.0.0",
+  "description": "Desktop app to notify about a random algorithm everyday",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "Daily-Algo"
+  },
+  "keywords": [
+    "daily",
+    "algorithm"
+  ],
+  "author": "Dung Pham",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^33.2.1"
+  }
+}
